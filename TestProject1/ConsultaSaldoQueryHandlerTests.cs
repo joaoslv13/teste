@@ -1,10 +1,8 @@
 ﻿using Moq;
-using Xunit;
-using Questao5.Application.Queries;
 using Questao5.Application.Handlers;
-using Questao5.Infrastructure.Database.Repositories;
-using Questao5.Application.Models;
+using Questao5.Application.Queries;
 using Questao5.Domain.Entities;
+using Questao5.Infrastructure.Database.Repositories;
 using Questao5.Infrastructure.Resources;
 
 namespace TestProject1
